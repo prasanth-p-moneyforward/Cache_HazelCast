@@ -1,0 +1,4 @@
+hazelcast:
+  cluster-name: hazelcast-cluster
+  serialization:
+    portable-version: 0
